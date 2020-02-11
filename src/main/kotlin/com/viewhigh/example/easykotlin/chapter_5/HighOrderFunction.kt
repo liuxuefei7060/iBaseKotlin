@@ -1,4 +1,4 @@
-package com.viewhigh.example.easykotlin
+package com.viewhigh.example.easykotlin.chapter_5
 
 //高阶函数
 
@@ -37,6 +37,9 @@ fun main() {
 
     stuNames.forEach(::println)
 
+//    stuNames.flatMap {  }
+//    stuNames.apply {  }
+//    stuNames.let {  }
 //    stuNames.forEach { element -> println(element) }
 //    stuNames.forEach (){ element -> println(element) }
 //    stuNames.forEach ({ element:String -> println(element) })

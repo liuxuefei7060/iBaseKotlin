@@ -1,4 +1,4 @@
-package com.viewhigh.example.easykotlin
+package com.viewhigh.example.easykotlin.chapter_5
 
 import java.io.OutputStream
 
